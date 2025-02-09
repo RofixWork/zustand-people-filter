@@ -74,6 +74,10 @@ Feel free to fork this project and submit pull requests.
 
 ---
 
+## Live Demo
+-> https://zustand-people-filter.netlify.app/
+---
+
 ## 📜 License
 This project is licensed under the MIT License.
 
